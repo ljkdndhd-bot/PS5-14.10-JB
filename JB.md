@@ -7,3 +7,7 @@ https://x.com/MBHUBDEV
 https://x.com/MBHUBDEV
 https://x.com/MBHUBDEV
 https://x.com/MBHUBDEV
+kernel 
+full jb completo
+userland 
+lua saves
